@@ -112,6 +112,6 @@ This repository contains the project outline for the **Code-Mixed Machine Transl
 - Importance of Addressing the Code-Mixed Machine Translation Problem
 - Anticipated Project Outcomes
 
----
+--- 
 **Note:** The information presented here is part of the project outline and may be subject to updates and modifications during the project's progress.
 
